@@ -37,13 +37,13 @@ extract_weather_task = PythonOperator(
     python_callable=sf_weatherdata_pull,
     op_kwargs={'endpoint': OWM_Endpoint,
                'api_key_id': api_key,
-               'days_past': 1},
+               'days_past': 3},
     dag=sfweather_upload_dag,
 )
 
 
 preprocess_weather_task = PythonOperator(
-    task_id='preporcess_weather_task',
+    task_id='preprocess_weather_task',
     python_callable=raw_weather_preprocess,
     op_kwargs={'df': extract_weather_task.output},
     dag=sfweather_upload_dag

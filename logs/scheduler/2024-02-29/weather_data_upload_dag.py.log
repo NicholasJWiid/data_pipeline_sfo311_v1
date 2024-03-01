@@ -1,0 +1,405 @@
+[2024-02-29T22:35:06.169+0000] {processor.py:157} INFO - Started process (PID=34) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:35:06.170+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:35:06.173+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:35:06.172+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:35:06.196+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:35:06.197+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:35:06.225+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:35:06.381+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:35:06.381+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:35:06.402+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:35:06.402+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-28T00:00:00+00:00, run_after=2024-02-29T00:00:00+00:00
+[2024-02-29T22:35:06.421+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.256 seconds
+[2024-02-29T22:35:36.478+0000] {processor.py:157} INFO - Started process (PID=42) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:35:36.480+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:35:36.485+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:35:36.484+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:35:36.490+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:35:36.490+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:35:36.500+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:35:36.526+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:35:36.526+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:35:36.544+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:35:36.544+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-28T00:00:00+00:00, run_after=2024-02-29T00:00:00+00:00
+[2024-02-29T22:35:36.557+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.084 seconds
+[2024-02-29T22:36:06.769+0000] {processor.py:157} INFO - Started process (PID=50) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:36:06.770+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:36:06.774+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:36:06.774+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:36:06.780+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:36:06.780+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:36:06.791+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:36:06.817+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:36:06.817+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:36:06.835+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:36:06.835+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-28T00:00:00+00:00, run_after=2024-02-29T00:00:00+00:00
+[2024-02-29T22:36:06.847+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.083 seconds
+[2024-02-29T22:36:37.039+0000] {processor.py:157} INFO - Started process (PID=58) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:36:37.041+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:36:37.045+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:36:37.044+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:36:37.050+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:36:37.050+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:36:37.063+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:36:37.096+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:36:37.095+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:36:37.117+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:36:37.117+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:36:37.130+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.098 seconds
+[2024-02-29T22:37:07.347+0000] {processor.py:157} INFO - Started process (PID=66) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:37:07.349+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:37:07.353+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:37:07.352+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:37:07.357+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:37:07.358+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:37:07.367+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:37:07.393+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:37:07.393+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:37:07.412+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:37:07.412+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:37:07.424+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.081 seconds
+[2024-02-29T22:37:37.659+0000] {processor.py:157} INFO - Started process (PID=74) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:37:37.660+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:37:37.664+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:37:37.664+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:37:37.669+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:37:37.669+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:37:37.679+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:37:37.702+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:37:37.702+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:37:37.720+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:37:37.720+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:37:37.732+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.078 seconds
+[2024-02-29T22:38:08.037+0000] {processor.py:157} INFO - Started process (PID=82) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:38:08.038+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:38:08.042+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:38:08.042+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:38:08.049+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:38:08.049+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:38:08.065+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:38:08.122+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:38:08.122+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:38:08.149+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:38:08.149+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:38:08.163+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.132 seconds
+[2024-02-29T22:38:38.304+0000] {processor.py:157} INFO - Started process (PID=89) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:38:38.306+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:38:38.309+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:38:38.308+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:38:38.313+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:38:38.314+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:38:38.322+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:38:38.343+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:38:38.343+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:38:38.358+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:38:38.358+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:38:38.370+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.070 seconds
+[2024-02-29T22:38:41.474+0000] {processor.py:157} INFO - Started process (PID=90) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:38:41.476+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:38:41.482+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:38:41.481+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:38:41.499+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:38:41.500+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:38:41.569+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:38:42.142+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:38:42.126+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:38:42.249+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:38:42.248+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:38:42.290+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.822 seconds
+[2024-02-29T22:39:12.674+0000] {processor.py:157} INFO - Started process (PID=98) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:39:12.676+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:39:12.680+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:39:12.680+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:39:12.685+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:39:12.686+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:39:12.697+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:39:12.733+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:39:12.733+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:39:12.754+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:39:12.754+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:39:12.767+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.099 seconds
+[2024-02-29T22:39:19.777+0000] {processor.py:157} INFO - Started process (PID=99) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:39:19.779+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:39:19.781+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:39:19.781+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:39:19.787+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:39:19.787+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:39:19.796+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:39:19.821+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:39:19.821+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:39:19.839+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:39:19.839+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:39:19.854+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.081 seconds
+[2024-02-29T22:39:50.116+0000] {processor.py:157} INFO - Started process (PID=107) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:39:50.117+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:39:50.129+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:39:50.128+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:39:50.138+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:39:50.138+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:39:50.149+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:39:50.176+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:39:50.175+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:39:50.194+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:39:50.194+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:39:50.206+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.095 seconds
+[2024-02-29T22:40:12.722+0000] {processor.py:157} INFO - Started process (PID=116) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:40:12.723+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:40:12.724+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:40:12.724+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:40:12.731+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:40:12.731+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:40:12.735+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:40:12.855+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:40:12.855+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:40:12.868+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:40:12.868+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:40:12.882+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.164 seconds
+[2024-02-29T22:40:42.992+0000] {processor.py:157} INFO - Started process (PID=124) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:40:42.992+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:40:42.993+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:40:42.993+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:40:42.997+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:40:42.997+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:40:43.000+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:40:43.023+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:40:43.023+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:40:43.039+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:40:43.039+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:40:43.056+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.068 seconds
+[2024-02-29T22:41:13.323+0000] {processor.py:157} INFO - Started process (PID=132) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:41:13.325+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:41:13.326+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:41:13.326+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:41:13.333+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:41:13.333+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:41:13.337+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:41:13.383+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:41:13.383+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:41:13.399+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:41:13.398+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:41:13.411+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.093 seconds
+[2024-02-29T22:41:43.638+0000] {processor.py:157} INFO - Started process (PID=140) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:41:43.639+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:41:43.640+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:41:43.640+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:41:43.645+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:41:43.645+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:41:43.650+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:41:43.698+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:41:43.698+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:41:43.716+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:41:43.716+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:41:43.732+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.098 seconds
+[2024-02-29T22:41:45.724+0000] {processor.py:157} INFO - Started process (PID=141) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:41:45.725+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:41:45.726+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:41:45.726+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:41:45.730+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:41:45.731+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:41:45.733+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:41:45.754+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:41:45.754+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:41:45.768+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:41:45.768+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:41:45.782+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.061 seconds
+[2024-02-29T22:42:16.066+0000] {processor.py:157} INFO - Started process (PID=149) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:42:16.068+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:42:16.068+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:42:16.068+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:42:16.072+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:42:16.072+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:42:16.076+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:42:16.100+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:42:16.100+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:42:16.114+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:42:16.114+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:42:16.125+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.062 seconds
+[2024-02-29T22:42:46.377+0000] {processor.py:157} INFO - Started process (PID=157) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:42:46.381+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:42:46.383+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:42:46.382+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:42:46.388+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:42:46.389+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:42:46.394+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:42:46.479+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:42:46.479+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:42:46.504+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:42:46.504+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:42:46.528+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.156 seconds
+[2024-02-29T22:43:16.667+0000] {processor.py:157} INFO - Started process (PID=165) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:43:16.669+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:43:16.671+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:43:16.670+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:43:16.676+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:43:16.676+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:43:16.682+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:43:16.720+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:43:16.720+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:43:16.750+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:43:16.750+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:43:16.772+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.110 seconds
+[2024-02-29T22:43:47.036+0000] {processor.py:157} INFO - Started process (PID=173) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:43:47.038+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:43:47.040+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:43:47.039+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:43:47.047+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:43:47.047+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:43:47.052+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:43:47.082+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:43:47.082+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:43:47.099+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:43:47.099+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:43:47.112+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.080 seconds
+[2024-02-29T22:44:17.322+0000] {processor.py:157} INFO - Started process (PID=181) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:44:17.323+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:44:17.325+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:44:17.324+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:44:17.329+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:44:17.329+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:44:17.334+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:44:17.363+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:44:17.363+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:44:17.379+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:44:17.379+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:44:17.391+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.072 seconds
+[2024-02-29T22:44:47.623+0000] {processor.py:157} INFO - Started process (PID=189) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:44:47.624+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:44:47.625+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:44:47.625+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:44:47.628+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:44:47.628+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:44:47.630+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:44:47.650+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:44:47.650+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:44:47.664+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:44:47.664+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:44:47.676+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.056 seconds
+[2024-02-29T22:45:18.042+0000] {processor.py:157} INFO - Started process (PID=197) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:45:18.043+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:45:18.045+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:45:18.044+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:45:18.050+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:45:18.050+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:45:18.055+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:45:18.088+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:45:18.088+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:45:18.107+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:45:18.106+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:45:18.121+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.084 seconds
+[2024-02-29T22:45:48.337+0000] {processor.py:157} INFO - Started process (PID=205) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:45:48.338+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:45:48.340+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:45:48.339+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:45:48.345+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:45:48.346+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:45:48.350+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:45:48.376+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:45:48.376+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:45:48.390+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:45:48.390+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:45:48.402+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.071 seconds
+[2024-02-29T22:46:18.674+0000] {processor.py:157} INFO - Started process (PID=213) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:46:18.675+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:46:18.677+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:46:18.676+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:46:18.682+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:46:18.682+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:46:18.687+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:46:18.726+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:46:18.726+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:46:18.750+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:46:18.750+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:46:18.765+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.097 seconds
+[2024-02-29T22:46:48.957+0000] {processor.py:157} INFO - Started process (PID=221) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:46:48.959+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:46:48.960+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:46:48.960+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:46:48.966+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:46:48.967+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:46:48.971+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:46:48.996+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:46:48.996+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:46:49.010+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:46:49.010+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:46:49.021+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.071 seconds
+[2024-02-29T22:47:19.395+0000] {processor.py:157} INFO - Started process (PID=229) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:47:19.397+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:47:19.399+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:47:19.398+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:47:19.404+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:47:19.405+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:47:19.410+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:47:19.441+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:47:19.441+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:47:19.458+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:47:19.458+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:47:19.472+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.084 seconds
+[2024-02-29T22:47:49.724+0000] {processor.py:157} INFO - Started process (PID=237) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:47:49.725+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:47:49.727+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:47:49.726+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:47:49.732+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:47:49.732+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:47:49.737+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:47:49.769+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:47:49.769+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:47:49.788+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:47:49.788+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:47:49.801+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.082 seconds
+[2024-02-29T22:48:20.073+0000] {processor.py:157} INFO - Started process (PID=245) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:48:20.075+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:48:20.077+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:48:20.076+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:48:20.082+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:48:20.082+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:48:20.088+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:48:20.116+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:48:20.116+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:48:20.133+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:48:20.133+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:48:20.147+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.079 seconds
+[2024-02-29T22:48:50.374+0000] {processor.py:157} INFO - Started process (PID=253) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:48:50.376+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:48:50.377+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:48:50.377+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:48:50.383+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:48:50.383+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:48:50.387+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:48:50.412+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:48:50.412+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:48:50.425+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:48:50.425+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:48:50.436+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.067 seconds
+[2024-02-29T22:49:20.731+0000] {processor.py:157} INFO - Started process (PID=261) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:49:20.733+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:49:20.734+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:49:20.734+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:49:20.739+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:49:20.739+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:49:20.744+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:49:20.771+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:49:20.771+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:49:20.786+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:49:20.786+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:49:20.799+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.073 seconds
+[2024-02-29T22:49:51.004+0000] {processor.py:157} INFO - Started process (PID=269) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:49:51.005+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:49:51.007+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:49:51.006+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:49:51.011+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:49:51.012+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:49:51.015+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:49:51.044+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:49:51.044+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:49:51.059+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:49:51.059+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:49:51.073+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.074 seconds
+[2024-02-29T22:50:21.346+0000] {processor.py:157} INFO - Started process (PID=276) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:50:21.348+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:50:21.349+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:50:21.348+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:50:21.355+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:50:21.356+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:50:21.361+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:50:21.387+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:50:21.387+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:50:21.402+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:50:21.402+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:50:21.415+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.074 seconds
+[2024-02-29T22:50:51.618+0000] {processor.py:157} INFO - Started process (PID=284) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:50:51.620+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:50:51.622+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:50:51.621+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:50:51.627+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:50:51.628+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:50:51.632+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:50:51.654+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:50:51.654+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:50:51.667+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:50:51.667+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:50:51.677+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.065 seconds
+[2024-02-29T22:51:21.947+0000] {processor.py:157} INFO - Started process (PID=292) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:51:21.949+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:51:21.951+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:51:21.950+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:51:21.957+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:51:21.957+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:51:21.963+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:51:21.993+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:51:21.993+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:51:22.009+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:51:22.009+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:51:22.021+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.081 seconds
+[2024-02-29T22:51:52.236+0000] {processor.py:157} INFO - Started process (PID=300) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:51:52.238+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:51:52.239+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:51:52.239+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:51:52.245+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:51:52.245+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:51:52.249+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:51:52.273+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:51:52.273+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:51:52.286+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:51:52.286+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:51:52.297+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.066 seconds
+[2024-02-29T22:52:22.572+0000] {processor.py:157} INFO - Started process (PID=308) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:52:22.573+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:52:22.575+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:52:22.574+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:52:22.580+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:52:22.581+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:52:22.585+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:52:22.614+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:52:22.614+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:52:22.630+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:52:22.630+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:52:22.644+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.078 seconds
+[2024-02-29T22:52:52.869+0000] {processor.py:157} INFO - Started process (PID=316) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:52:52.870+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:52:52.871+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:52:52.871+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:52:52.874+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:52:52.874+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:52:52.877+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:52:52.898+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:52:52.898+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:52:52.911+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:52:52.911+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:52:52.927+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.060 seconds
+[2024-02-29T22:53:23.387+0000] {processor.py:157} INFO - Started process (PID=324) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:53:23.388+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:53:23.390+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:53:23.389+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:53:23.395+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:53:23.395+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:53:23.400+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:53:23.430+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:53:23.429+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:53:23.447+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:53:23.446+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:53:23.460+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.078 seconds
+[2024-02-29T22:53:53.711+0000] {processor.py:157} INFO - Started process (PID=332) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:53:53.713+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:53:53.714+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:53:53.714+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:53:53.719+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:53:53.719+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:53:53.722+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:53:53.745+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:53:53.745+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:53:53.758+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:53:53.758+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:53:53.770+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.063 seconds
+[2024-02-29T22:54:24.127+0000] {processor.py:157} INFO - Started process (PID=340) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:54:24.128+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:54:24.130+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:54:24.129+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:54:24.135+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:54:24.135+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:54:24.140+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:54:24.191+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:54:24.191+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:54:24.206+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:54:24.206+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:54:24.218+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.097 seconds
+[2024-02-29T22:54:54.415+0000] {processor.py:157} INFO - Started process (PID=348) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:54:54.417+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:54:54.418+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:54:54.418+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:54:54.423+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:54:54.423+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:54:54.427+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:54:54.460+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:54:54.460+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:54:54.482+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:54:54.482+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:54:54.500+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.093 seconds
+[2024-02-29T22:55:24.888+0000] {processor.py:157} INFO - Started process (PID=355) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:55:24.890+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:55:24.891+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:55:24.891+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:55:24.896+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:55:24.896+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:55:24.901+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:55:24.935+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:55:24.935+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:55:24.953+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:55:24.953+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:55:24.967+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.083 seconds
+[2024-02-29T22:55:55.272+0000] {processor.py:157} INFO - Started process (PID=363) to work on /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:55:55.274+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/weather_data_upload_dag.py for tasks to queue
+[2024-02-29T22:55:55.275+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:55:55.275+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:55:55.281+0000] {logging_mixin.py:151} INFO - /opt
+[2024-02-29T22:55:55.282+0000] {logging_mixin.py:151} INFO - /opt/plugins/
+[2024-02-29T22:55:55.287+0000] {processor.py:839} INFO - DAG(s) dict_keys(['weather_data_upload']) retrieved from /opt/airflow/dags/weather_data_upload_dag.py
+[2024-02-29T22:55:55.319+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:55:55.319+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-29T22:55:55.336+0000] {logging_mixin.py:151} INFO - [2024-02-29T22:55:55.336+0000] {dag.py:3722} INFO - Setting next_dagrun for weather_data_upload to 2024-02-29T00:00:00+00:00, run_after=2024-03-01T00:00:00+00:00
+[2024-02-29T22:55:55.350+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/weather_data_upload_dag.py took 0.085 seconds
